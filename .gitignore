@@ -1,0 +1,19 @@
+src/sweetd
+src/test_sweet
+
+# Ignore build dir
+build/
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+sweet-qt
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store

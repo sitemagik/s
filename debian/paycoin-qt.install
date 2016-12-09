@@ -1,0 +1,3 @@
+sweet-qt usr/bin
+debian/sweet-qt.desktop usr/share/applications
+debian/sweet-qt.protocol usr/share/kde4/services

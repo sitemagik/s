@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sweet
+Comment=sweet P2P Cryptocurrency
+Comment[fr]=sweet, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=sweet, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/sweet-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/sweet128.png
+MimeType=x-scheme-handler/sweet;
+Categories=Office;
